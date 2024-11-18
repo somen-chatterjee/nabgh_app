@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="20.964" viewBox="0 0 19 20.964">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.145" y1="0.826" x2="0.856" y2="0.182" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#64b5f6"/>
+      <stop offset="1" stop-color="#1976d2"/>
+    </linearGradient>
+  </defs>
+  <g id="hashtag" transform="translate(-23.981)">
+    <path id="Hashtag-2" d="M41.539,4.63H39.7l.561-2.95a1.416,1.416,0,1,0-2.783-.529L36.817,4.63H32.373l.561-2.95a1.417,1.417,0,0,0-2.783-.529L29.489,4.63H26.421a1.442,1.442,0,1,0,0,2.883h2.52L27.812,13.45H25.424a1.442,1.442,0,1,0,0,2.883h1.84l-.561,2.95a1.416,1.416,0,1,0,2.783.529l.661-3.479H34.59l-.561,2.95a1.416,1.416,0,1,0,2.783.529l.661-3.479h3.068a1.442,1.442,0,1,0,0-2.883h-2.52L39.15,7.514h2.388a1.442,1.442,0,1,0,0-2.883Zm-6.4,8.82H30.7l1.129-5.936h4.444Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

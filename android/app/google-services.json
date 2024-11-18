@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "27033124726",
+    "project_id": "nabgh-12e3f",
+    "storage_bucket": "nabgh-12e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27033124726:android:046bd918b0089a1e098457",
+        "android_client_info": {
+          "package_name": "com.app.nabgh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27033124726-k5fkci3pr1lcm9cp779rqj51d1heg186.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.nabgh_app",
+            "certificate_hash": "5906a9714962d72302a27c8df7f7ae036770d27e"
+          }
+        },
+        {
+          "client_id": "27033124726-qdfs6frmgjjfiqc3iu06gdu4tqbspp2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9JpVdXwXBMN0_Q74B0hSnBYn0AjM7rpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27033124726-qdfs6frmgjjfiqc3iu06gdu4tqbspp2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27033124726-7cc2shfq1bggkl6elhe54gh7toc17274.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nabigh.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

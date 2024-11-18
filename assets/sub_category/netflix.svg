@@ -1,0 +1,10 @@
+<svg id="netflix" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_3940" data-name="Group 3940" transform="translate(0 0)">
+    <path id="Path_6771" data-name="Path 6771" d="M18,24H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0H18a6,6,0,0,1,6,6V18a6,6,0,0,1-6,6" transform="translate(0 0)" fill="#2d2d2d" fill-rule="evenodd"/>
+    <path id="Path_6772" data-name="Path 6772" d="M11.25,6.75H18A3.375,3.375,0,0,0,18.345.017C18.23.011,18.117,0,18,0H6A6,6,0,0,0,0,6V18A11.25,11.25,0,0,1,11.25,6.75" transform="translate(0 0)" fill="#464646" fill-rule="evenodd"/>
+    <path id="Path_6773" data-name="Path 6773" d="M38,22a6,6,0,1,0,6,6V16a6,6,0,0,1-6,6" transform="translate(-20 -10)" fill="#141414" fill-rule="evenodd"/>
+    <path id="Path_6774" data-name="Path 6774" d="M22.625,12a.375.375,0,0,1,.375.375v14.75a.375.375,0,0,1-.354.374c-.7.038-1.2.08-1.813.149A.75.75,0,0,1,20,26.9V12.375A.375.375,0,0,1,20.375,12Z" transform="translate(-12.5 -7.5)" fill="#d20014" fill-rule="evenodd"/>
+    <path id="Path_6775" data-name="Path 6775" d="M39,11.75a.75.75,0,0,0-.75-.75h-1.5a.75.75,0,0,0-.75.75V26.375a.375.375,0,0,0,.375.375h2.25A.375.375,0,0,0,39,26.375Z" transform="translate(-22.5 -6.875)" fill="#d20014" fill-rule="evenodd"/>
+  </g>
+  <path id="Path_6776" data-name="Path 6776" d="M23.392,11.5a.751.751,0,0,0-.706-.5H20.749a.749.749,0,0,0-.749.749v0a.13.13,0,0,1,.253-.044l5.266,14.675a.75.75,0,0,0,.675.5c.776.036,1.534.106,2.066.163a.668.668,0,0,0,.74-.663h0v0a.13.13,0,0,1-.253.044L23.392,11.5Z" transform="translate(-12.5 -6.875)" fill="#ff0a1e"/>
+</svg>

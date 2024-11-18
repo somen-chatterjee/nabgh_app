@@ -1,0 +1,12 @@
+<svg id="riddles" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_3721" data-name="Group 3721">
+    <path id="Path_6294" data-name="Path 6294" d="M10,0H0V10l5.294.588L10,10l1.176-5.294Z" fill="#ffd737"/>
+    <g id="Group_3720" data-name="Group 3720" transform="translate(10)">
+      <path id="XMLID_12_" d="M255,10V0h10V10Z" transform="translate(-255)" fill="#ff5959"/>
+      <path id="Path_6295" data-name="Path 6295" d="M375,480h1.176v1.176H375Z" transform="translate(-370.294 -461.176)" fill="#ff5959"/>
+      <path id="Path_6296" data-name="Path 6296" d="M332.941,305.88h-1.177a3.147,3.147,0,0,1,1.293-2.587,1.177,1.177,0,1,0-1.881-.942H330a2.353,2.353,0,1,1,3.763,1.884,1.986,1.986,0,0,0-.822,1.592Z" transform="translate(-327.059 -288.233)" fill="#ff5959"/>
+    </g>
+    <path id="Path_6297" data-name="Path 6297" d="M256.852,80.278c-.606,0-1.148.37-1.852.37v2.963c.728,0,1.246.37,1.852.37a1.852,1.852,0,1,0,0-3.7Z" transform="translate(-245 -77.13)" fill="#ffb048"/>
+    <path id="XMLID_11_" d="M3.519,164.26c0-.7-.37-1.246-.37-1.852a1.852,1.852,0,1,1,3.7,0c0,.606-.37,1.123-.37,1.852H10v3.518c-.7,0-1.246-.37-1.852-.37a1.852,1.852,0,1,0,0,3.7c.606,0,1.123-.37,1.852-.37v3.519H0v-10Z" transform="translate(0 -154.26)" fill="#73e8ff"/>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg id="Group_3823" data-name="Group 3823" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="390" height="266" transform="translate(0 578)" fill="#fff"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.55" cy="0.401" r="0.681" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.088" stop-color="#fff" stop-opacity="0.973"/>
+      <stop offset="0.216" stop-color="#fff" stop-opacity="0.894"/>
+      <stop offset="0.37" stop-color="#fff" stop-opacity="0.769"/>
+      <stop offset="0.543" stop-color="#fff" stop-opacity="0.592"/>
+      <stop offset="0.732" stop-color="#fff" stop-opacity="0.369"/>
+      <stop offset="0.932" stop-color="#fff" stop-opacity="0.098"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.07" stop-color="#fff" stop-opacity="0.898"/>
+      <stop offset="0.269" stop-color="#fff" stop-opacity="0.627"/>
+      <stop offset="0.458" stop-color="#fff" stop-opacity="0.404"/>
+      <stop offset="0.63" stop-color="#fff" stop-opacity="0.231"/>
+      <stop offset="0.784" stop-color="#fff" stop-opacity="0.106"/>
+      <stop offset="0.912" stop-color="#fff" stop-opacity="0.027"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect id="Rectangle_157" data-name="Rectangle 157" width="390" height="844" fill="#111"/>
+  <g id="Mask_Group_5" data-name="Mask Group 5" clip-path="url(#clip-path)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="195" cy="195" r="195" transform="translate(0 649)" fill="#4d4dff" opacity="0.2" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+  </g>
+  <g id="Group_420" data-name="Group 420" transform="translate(0 6.126)">
+    <path id="Path_400" data-name="Path 400" d="M241.743,193.08a2.754,2.754,0,0,1-2.353,2.719v88.718a9.082,9.082,0,0,1-9.072,9.072h-24.1a8.265,8.265,0,0,0-8.256,8.256V410.805h-.816V301.846a9.082,9.082,0,0,1,9.072-9.072h24.1a8.265,8.265,0,0,0,8.256-8.256V195.8a2.756,2.756,0,1,1,3.169-2.719ZM127.97,344.836H107.29a2.761,2.761,0,1,0,0,.816h20.68a6.464,6.464,0,0,1,6.455,6.456v58.7h.816v-58.7A7.28,7.28,0,0,0,127.97,344.836Zm-50.2-74H59.946a2.761,2.761,0,1,0,0,.816H77.769a8.67,8.67,0,0,1,8.66,8.66v130.5h.816v-130.5A9.487,9.487,0,0,0,77.769,270.832ZM386.192,136.975V311.112A9.9,9.9,0,0,1,376.3,321H348.318v15.589h16.242a9.083,9.083,0,0,1,9.073,9.072v23.1h2.848a9.082,9.082,0,0,1,9.072,9.072v32.973h-.816V377.832a8.265,8.265,0,0,0-8.256-8.256h-2.848v41.23h-.816v-41.23H356.574A9.083,9.083,0,0,1,347.5,360.5v-23.1H332.143v73.4H329.7v-73.4H306.336v73.4h-.816v-73.4h-1.067a9.083,9.083,0,0,1-9.072-9.072V260.471h-20.8V367.05h9.771a9.082,9.082,0,0,1,9.072,9.072v34.684h-.816V376.122a8.265,8.265,0,0,0-8.256-8.256h-9.771v42.94h-.816v-42.94H260.253a9.083,9.083,0,0,1-9.073-9.072V336.051a6.3,6.3,0,1,1,.816,0v22.743a8.266,8.266,0,0,0,8.257,8.256h13.514V260.471H259.574A9.083,9.083,0,0,1,250.5,251.4V173.171a8.265,8.265,0,0,0-8.256-8.256H17.372v217.25H37.506a5.253,5.253,0,0,0,5.247-5.248V320.072H35a7.331,7.331,0,0,1-7.323-7.323V191.7a6.3,6.3,0,1,1,.816,0V312.749A6.514,6.514,0,0,0,35,319.256h7.753V228.688a2.758,2.758,0,1,1,.816,0v90.567h6.518a7.331,7.331,0,0,1,7.323,7.324v84.226h-.816V326.58a6.515,6.515,0,0,0-6.507-6.508H43.569v56.845a6.071,6.071,0,0,1-6.063,6.064H17.372v27.825h-.816V382.98H0v-.816H16.556V164.915H0V164.1H16.556v-21.25H0V140.4H16.556V123.036H0v-.816H16.556v-4.155a7.28,7.28,0,0,1,7.271-7.272H33.57V84.475a2.761,2.761,0,1,1,.816,0v26.317H53.13V48.035H2.471v-.816H53.13V31.569H0V29.121H53.132a9.9,9.9,0,0,1,9.886-9.835h124.04a5.033,5.033,0,1,1,0,2.448H63.018a7.448,7.448,0,0,0-7.438,7.387H77.463a9.9,9.9,0,0,1,9.888,9.887v8.211H95.4a9.082,9.082,0,0,1,9.072,9.072V83.832H353.845a7.116,7.116,0,1,1,0,2.448H104.476v21.649a8.265,8.265,0,0,0,8.256,8.256H327.45a6.3,6.3,0,1,1,0,.816H112.732a9.082,9.082,0,0,1-9.072-9.072V86.28H94.793A9.9,9.9,0,0,1,84.9,76.392V48.035H55.577v62.757H70.8a2.758,2.758,0,1,1,0,.816H55.577V132.96a9.9,9.9,0,0,1-9.888,9.888H17.372V164.1H242.245a9.082,9.082,0,0,1,9.072,9.072V251.4a8.266,8.266,0,0,0,8.257,8.256h14.193v-3.043a9.083,9.083,0,0,1,9.072-9.073h12.542V180.383a2.761,2.761,0,1,1,.816,0V247.54H323.33a8.265,8.265,0,0,0,8.256-8.256V158.539a2.758,2.758,0,1,1,.816,0v80.743a9.082,9.082,0,0,1-9.072,9.072H296.2v11.3h51.3V134.84a2.761,2.761,0,1,1,.816,0V259.655H361.93V217.99a6.3,6.3,0,1,1,.816,0v41.665h5a2.761,2.761,0,1,1,0,.816h-5V290.46a9.082,9.082,0,0,1-9.072,9.072h-5.356v19.021H376.3a7.449,7.449,0,0,0,7.44-7.44V136.975a5.032,5.032,0,1,1,2.448,0Zm-24.262,80.2v-2.913a2.761,2.761,0,1,1,.816,0v2.913a5.485,5.485,0,1,0-.816,0ZM328.266,116.185h2.619a2.761,2.761,0,1,1,0,.816h-2.619a5.484,5.484,0,1,0,0-.816ZM356.18,85.056a4.668,4.668,0,1,0,4.669-4.669A4.674,4.674,0,0,0,356.18,85.056ZM189.349,20.51a2.584,2.584,0,1,0,2.584-2.583A2.587,2.587,0,0,0,189.349,20.51Zm-102,27.525V76.392a7.449,7.449,0,0,0,7.441,7.44h8.867V56.291A8.265,8.265,0,0,0,95.4,48.035Zm-31.774-.816H84.9V39.008a7.448,7.448,0,0,0-7.44-7.439H55.577Zm-38.205,75h9.741a6.463,6.463,0,0,0,6.456-6.456v-4.155H23.828a6.464,6.464,0,0,0-6.455,6.456Zm0,18.181H45.689a7.449,7.449,0,0,0,7.44-7.44V111.608H34.386v4.155a7.28,7.28,0,0,1-7.272,7.272H17.372Zm10.3,50.486v-2.98a2.761,2.761,0,1,1,.816,0v2.98a5.484,5.484,0,1,0-.816,0Zm223.5,144.348V332.6a2.761,2.761,0,1,1,.816,0v2.635a5.484,5.484,0,1,0-.816,0Zm97.138-74.764v38.245h5.356a8.265,8.265,0,0,0,8.256-8.256V260.471Zm-52.936-.816v-11.3H282.839a8.266,8.266,0,0,0-8.256,8.257v3.043Zm10.139,76.934v-28.8a9.082,9.082,0,0,1,9.072-9.072H347.5V260.471H296.2v67.862a8.265,8.265,0,0,0,8.256,8.256Zm24.175,0v-8.148a9.9,9.9,0,0,1,9.888-9.888H347.5V299.532H314.593a8.265,8.265,0,0,0-8.256,8.256v28.8Zm18.622.816v23.1a8.265,8.265,0,0,0,8.256,8.256h16.242v-23.1a8.265,8.265,0,0,0-8.257-8.256ZM347.5,321h-7.918a7.448,7.448,0,0,0-7.44,7.44v8.148H347.5Zm40.051-188.9a2.584,2.584,0,1,0-2.584,2.584A2.587,2.587,0,0,0,387.552,132.1Z" transform="translate(0 0)" fill="url(#radial-gradient)" style="mix-blend-mode: overlay;isolation: isolate"/>
+    <g id="Group_419" data-name="Group 419" transform="translate(31.742 61.995)">
+      <circle id="Ellipse_36" data-name="Ellipse 36" cx="14.676" cy="14.676" r="14.676" transform="translate(199.387 264.271) rotate(-35.306)" fill="url(#radial-gradient-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="14.676" cy="14.676" r="14.676" transform="translate(315.92 135.028)" fill="url(#radial-gradient-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+      <circle id="Ellipse_38" data-name="Ellipse 38" cx="14.676" cy="14.676" r="14.676" transform="translate(280.683 86.603) rotate(-26.81)" fill="url(#radial-gradient-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="11.433" cy="11.433" r="11.433" transform="translate(327.777 187.043)" fill="url(#radial-gradient-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+      <circle id="Ellipse_40" data-name="Ellipse 40" cx="8.664" cy="8.664" r="8.664" transform="translate(64.07 274.681)" fill="url(#radial-gradient-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+      <circle id="Ellipse_41" data-name="Ellipse 41" cx="8.664" cy="8.664" r="8.664" transform="translate(0 159.23) rotate(-22.347)" fill="url(#radial-gradient-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+      <circle id="Ellipse_42" data-name="Ellipse 42" cx="23.061" cy="23.061" r="23.061" transform="translate(306.045)" fill="url(#radial-gradient-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+      <circle id="Ellipse_43" data-name="Ellipse 43" cx="14.676" cy="14.676" r="14.676" transform="translate(26.909 33.768)" fill="url(#radial-gradient-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+    </g>
+  </g>
+</svg>
